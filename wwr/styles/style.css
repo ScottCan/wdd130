@@ -241,6 +241,27 @@ main section img {
     box-shadow: 5px 5px 10px #6f7364
 }
 
+/* Subpage */
+
+h1 {
+    text-align: center;
+}
+
+#tripsection > img{
+    float: right;
+    width: 60%;
+    border: solid black 5px;
+    margin-right: 50px;
+}
+#tripsection > h3{
+    padding-left: 20px;
+}
+#tripsection > p{
+    padding-left: 20px;
+}
+
+
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
