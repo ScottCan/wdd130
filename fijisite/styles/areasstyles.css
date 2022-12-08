@@ -8,7 +8,12 @@ header{
     width: 100%;
 }
 
+h1 h2 h3 h4 h5{
+    font-family: Comfortaa;
+}
+
 nav{
+    font-family: Comfortaa;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -21,7 +26,13 @@ nav{
     margin: 5px;
 }
 
+
+p{
+    font-family: Roboto, Helvetica, sans-serif;
+}
+
 h1{
+    font-family: "Comfortaa";
     grid-column: 3/4;
     grid-row: 1/2;
     text-align: center;
